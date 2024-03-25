@@ -1,0 +1,9 @@
+POST http://localhost:3003/api/blogs 
+Content-Type: application/json
+
+{
+    "title": "An Intro to Git and GitHub for Beginners (Tutorial)",
+    "author": "HubSpot Product Team",
+    "url": "https://product.hubspot.com/blog/git-and-github-tutorial-for-beginners",
+    "likes": 5
+}
